@@ -1,0 +1,2 @@
+file:///tmp/jupyterhub-ecsspawner-0.1.dev0.tar.gz
+jupyterhub-dummyauthenticator
